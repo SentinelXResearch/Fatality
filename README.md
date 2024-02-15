@@ -1,6 +1,8 @@
 # Fatality
 a idk tool that is desinged to searc/detect new STM software SQLi CVE-2024-24142
-![CVE]()
+
+
+![CVE](https://github.com/SentinelXResearch/Fatality/blob/main/sqli22.png)
 # Usage
 download the script 
 ```
